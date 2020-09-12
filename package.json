@@ -1,0 +1,26 @@
+{
+  "name": "jest-playground",
+  "version": "1.0.0",
+  "description": "A toy project to practice testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emethium/node-jest-playground.git"
+  },
+  "keywords": [
+    "example",
+    "jest"
+  ],
+  "author": "Emethium <nikolas.serafini@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emethium/node-jest-playground/issues"
+  },
+  "homepage": "https://github.com/Emethium/node-jest-playground#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
